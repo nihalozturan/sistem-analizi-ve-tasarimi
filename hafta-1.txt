@@ -1,0 +1,4 @@
+h=8
+while h>0:
+    print(h)
+    h=h/2
