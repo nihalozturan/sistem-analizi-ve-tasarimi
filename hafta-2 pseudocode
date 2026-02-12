@@ -1,0 +1,10 @@
+Başla
+Birinci sayıyı al
+İkinci sayıyı al
+Eğer birinci sayı > ikinci sayı ise
+    "1. sayı büyüktür" yazdır
+Değilse eğer birinci sayı = ikinci sayı ise
+    "İki sayı da eşittir" yazdır
+Aksi halde
+    "İkinci sayı büyüktür" yazdır
+Bitir
